@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilsinghtomar" alt="sahilsinghtomar" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, Golang**
+- 🌱 I’m currently learning **System Design**
 
 - 💬 Ask me about **python**
 
@@ -15,10 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sahil singh tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil singh tomar" height="30" width="40" /></a>
-<a href="https://instagram.com/thephenom_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thephenom_op" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sahil100303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sahil100303" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahiltomar100303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahiltomar100303" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sahil-singh-tomar-83b22b22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil singh tomar" height="30" width="40" /></a>
+<a href="https://instagram.com/_sahil_singhtomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thephenom_op" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/heretostay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahiltomar100303" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
